@@ -1,2 +1,2 @@
-# mern-basics
-Building an app using **MERN** stack
+# Workout Tracker
+A web application to track workouts using **MERN** stack
